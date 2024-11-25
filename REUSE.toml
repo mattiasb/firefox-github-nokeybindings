@@ -1,0 +1,16 @@
+# Copyright 2024, Mattias Bengtsson <mattias.jc.bengtsson@gmail.com>
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[[annotations]]
+path = "dist/github-nokeys.xpi"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright 2024, Mattias Bengtsson <mattias.jc.bengtsson@gmail.com>"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = "*.json"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright 2024, Mattias Bengtsson <mattias.jc.bengtsson@gmail.com>"
+SPDX-License-Identifier = "Apache-2.0"
