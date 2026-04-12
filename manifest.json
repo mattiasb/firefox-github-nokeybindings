@@ -7,5 +7,12 @@
     "content_scripts": [{
         "matches": ["*://*.github.com/*"],
         "js": ["nokeys.js"]
-    }]
+    }],
+    "browser_specific_settings": {
+        "gecko": {
+            "data_collection_permissions": {
+                "required": ["none"]
+            }
+        }
+    }
 }
