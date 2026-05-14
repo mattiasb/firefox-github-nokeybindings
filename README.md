@@ -7,4 +7,4 @@ Firefox extension that disables <https://github.com> keybindings.
 
 ## TODO
 
-- [ ] Publish
+- [x] Publish.
