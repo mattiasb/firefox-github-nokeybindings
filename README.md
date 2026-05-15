@@ -18,3 +18,4 @@ Firefox extension that disables <https://github.com> keybindings.
 ## TODO
 
 - [x] Publish.
+- [x] Create an allow-list of keys.
